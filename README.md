@@ -22,5 +22,4 @@ This project was completely managed and executed by me, covering all aspects of 
 *   **Design & Development**
 *   **Domain Registration & Management**
 *   **Hosting & Deployment**
-## 📄 License
-[Add your license here, e.g., MIT, Proprietary, etc.]
+
