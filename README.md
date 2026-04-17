@@ -76,11 +76,11 @@ This is a static site and can be run directly:
 
 ### Option 1: Open directly
 
-Open `/home/runner/work/EVIZ/EVIZ/index.html` in a browser.
+Open `index.html` in a browser from the project root directory.
 
 ### Option 2: Use a local HTTP server (recommended)
 
-From `/home/runner/work/EVIZ/EVIZ`:
+From the project root directory:
 
 ```bash
 # Python 3
